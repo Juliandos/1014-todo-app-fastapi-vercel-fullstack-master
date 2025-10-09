@@ -188,9 +188,9 @@
 # zipp==3.17.0
 
 fastapi==0.104.1
-uvicorn[standard]==0.24.0
+uvicorn==0.24.0
 sqlalchemy==2.0.23
-psycopg[binary]==3.1.14
+psycopg2-binary==2.9.10
 python-dotenv==1.0.0
 pydantic==2.5.2
 pydantic-settings==2.1.0
