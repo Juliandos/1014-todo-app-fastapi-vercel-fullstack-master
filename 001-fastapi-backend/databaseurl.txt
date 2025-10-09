@@ -1,2 +1,0 @@
-internal: postgresql://modern_todo_db_3h4g_user:MkUS16shm0mlYD33yB2GTU5EUFCX7peP@dpg-d3jj7aa4d50c73f8bcl0-a/modern_todo_db_3h4g
-external: postgresql://modern_todo_db_3h4g_user:MkUS16shm0mlYD33yB2GTU5EUFCX7peP@dpg-d3jj7aa4d50c73f8bcl0-a.oregon-postgres.render.com/modern_todo_db_3h4g
